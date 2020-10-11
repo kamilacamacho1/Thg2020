@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH2020", "TH2020\TH2020.csproj", "{AE8910A3-CEB1-4137-9619-0C239D1C1383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitarias", "unitarias\unitarias.csproj", "{F2530AFE-1780-4D1A-8F67-3E3A8227A855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8910A3-CEB1-4137-9619-0C239D1C1383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8910A3-CEB1-4137-9619-0C239D1C1383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8910A3-CEB1-4137-9619-0C239D1C1383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8910A3-CEB1-4137-9619-0C239D1C1383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2530AFE-1780-4D1A-8F67-3E3A8227A855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2530AFE-1780-4D1A-8F67-3E3A8227A855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2530AFE-1780-4D1A-8F67-3E3A8227A855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2530AFE-1780-4D1A-8F67-3E3A8227A855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD074806-6937-4000-AF61-7CA70A95F65B}
+	EndGlobalSection
+EndGlobal
